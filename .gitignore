@@ -41,3 +41,16 @@ app-example
 # generated native folders
 /ios
 /android
+# Firebase Admin SDK
+razorpay-backend/*.json
+
+# Environment files
+.env
+.env.*
+
+# Dependencies
+node_modules/
+
+# Expo
+.expo/
+dist/

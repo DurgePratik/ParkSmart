@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "867288690061",
+    "project_id": "car-app-b8390",
+    "storage_bucket": "car-app-b8390.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:867288690061:android:959ad192edcfef89c021c4",
+        "android_client_info": {
+          "package_name": "com.pratidurge.parksmart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "867288690061-r8jkjtfpfkt870ec64i2b6d04b8eer0v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pratidurge.parksmart",
+            "certificate_hash": "9968c3c1f5271429a290ada06ad6d9e40e3b1e57"
+          }
+        },
+        {
+          "client_id": "867288690061-ovoaervmd29bfret437d6cegsc3onqvs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1Q8dfMcglIUB8Wo_YXztj9zpuHXpz0cU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "867288690061-ovoaervmd29bfret437d6cegsc3onqvs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
